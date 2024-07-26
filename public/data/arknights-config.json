@@ -1,0 +1,3050 @@
+{
+    "amiya": {
+        "name": "char_002_amiya",
+        "avatar": "amiya",
+        "code": "002",
+        "skin": [
+            "amiya_1+",
+            "amiya_1",
+            "amiya_2",
+            "amiya_epoque-4",
+            "amiya_test-1",
+            "amiya_winter-1"
+        ]
+    },
+    "kalts": {
+        "name": "char_003_kalts",
+        "avatar": "kalts",
+        "code": "003",
+        "skin": [
+            "kalts_1",
+            "kalts_2",
+            "kalts_boc-6"
+        ]
+    },
+    "owl": {
+        "name": "char_008_owl",
+        "avatar": "owl",
+        "code": "008",
+        "skin": []
+    },
+    "12fce": {
+        "name": "char_009_12fce",
+        "avatar": "12fce",
+        "code": "009",
+        "skin": [
+            "12fce_1"
+        ]
+    },
+    "chen": {
+        "name": "char_010_chen",
+        "avatar": "chen",
+        "code": "010",
+        "skin": [
+            "chen_1",
+            "chen_2",
+            "chen_nian-2"
+        ]
+    },
+    "huang": {
+        "name": "char_017_huang",
+        "avatar": "huang",
+        "code": "017",
+        "skin": [
+            "huang_1",
+            "huang_2",
+            "huang_as-1"
+        ]
+    },
+    "amiya2": {
+        "name": "char_1001_amiya2",
+        "avatar": "amiya2",
+        "code": "1001",
+        "skin": [
+            "amiya2_2",
+            "amiya2_casc-1"
+        ]
+    },
+    "lava2": {
+        "name": "char_1011_lava2",
+        "avatar": "lava2",
+        "code": "1011",
+        "skin": [
+            "lava2_1",
+            "lava2_2",
+            "lava2_nian-6"
+        ]
+    },
+    "skadi2": {
+        "name": "char_1012_skadi2",
+        "avatar": "skadi2",
+        "code": "1012",
+        "skin": [
+            "skadi2_1",
+            "skadi2_2",
+            "skadi2_boc-4"
+        ]
+    },
+    "chen2": {
+        "name": "char_1013_chen2",
+        "avatar": "chen2",
+        "code": "1013",
+        "skin": [
+            "chen2_1",
+            "chen2_2",
+            "chen2_boc-6"
+        ]
+    },
+    "nearl2": {
+        "name": "char_1014_nearl2",
+        "avatar": "nearl2",
+        "code": "1014",
+        "skin": [
+            "nearl2_1",
+            "nearl2_2",
+            "nearl2_epoque-17"
+        ]
+    },
+    "agoat2": {
+        "name": "char_1016_agoat2",
+        "avatar": "agoat2",
+        "code": "1016",
+        "skin": [
+            "agoat2_1",
+            "agoat2_2"
+        ]
+    },
+    "sora": {
+        "name": "char_101_sora",
+        "avatar": "sora",
+        "code": "101",
+        "skin": [
+            "sora_1",
+            "sora_2",
+            "sora_epoque-17",
+            "sora_summer-1"
+        ]
+    },
+    "reed2": {
+        "name": "char_1020_reed2",
+        "avatar": "reed2",
+        "code": "1020",
+        "skin": [
+            "reed2_1",
+            "reed2_2"
+        ]
+    },
+    "kroos2": {
+        "name": "char_1021_kroos2",
+        "avatar": "kroos2",
+        "code": "1021",
+        "skin": [
+            "kroos2_1",
+            "kroos2_2",
+            "kroos2_nian-8"
+        ]
+    },
+    "ghost2": {
+        "name": "char_1023_ghost2",
+        "avatar": "ghost2",
+        "code": "1023",
+        "skin": [
+            "ghost2_1",
+            "ghost2_2",
+            "ghost2_boc-6"
+        ]
+    },
+    "hbisc2": {
+        "name": "char_1024_hbisc2",
+        "avatar": "hbisc2",
+        "code": "1024",
+        "skin": [
+            "hbisc2_1",
+            "hbisc2_2"
+        ]
+    },
+    "gvial2": {
+        "name": "char_1026_gvial2",
+        "avatar": "gvial2",
+        "code": "1026",
+        "skin": [
+            "gvial2_1",
+            "gvial2_2",
+            "gvial2_summer-12"
+        ]
+    },
+    "greyy2": {
+        "name": "char_1027_greyy2",
+        "avatar": "greyy2",
+        "code": "1027",
+        "skin": [
+            "greyy2_1",
+            "greyy2_2",
+            "greyy2_snow-5"
+        ]
+    },
+    "texas2": {
+        "name": "char_1028_texas2",
+        "avatar": "texas2",
+        "code": "1028",
+        "skin": [
+            "texas2_1",
+            "texas2_2"
+        ]
+    },
+    "yato2": {
+        "name": "char_1029_yato2",
+        "avatar": "yato2",
+        "code": "1029",
+        "skin": [
+            "yato2_1",
+            "yato2_2"
+        ]
+    },
+    "texas": {
+        "name": "char_102_texas",
+        "avatar": "texas",
+        "code": "102",
+        "skin": [
+            "texas_1",
+            "texas_2",
+            "texas_epoque-7",
+            "texas_winter-1"
+        ]
+    },
+    "noirc2": {
+        "name": "char_1030_noirc2",
+        "avatar": "noirc2",
+        "code": "1030",
+        "skin": [
+            "noirc2_1",
+            "noirc2_2"
+        ]
+    },
+    "slent2": {
+        "name": "char_1031_slent2",
+        "avatar": "slent2",
+        "code": "1031",
+        "skin": [
+            "slent2_1",
+            "slent2_2"
+        ]
+    },
+    "excu2": {
+        "name": "char_1032_excu2",
+        "avatar": "excu2",
+        "code": "1032",
+        "skin": [
+            "excu2_1",
+            "excu2_2"
+        ]
+    },
+    "swire2": {
+        "name": "char_1033_swire2",
+        "avatar": "swire2",
+        "code": "1033",
+        "skin": [
+            "swire2_1",
+            "swire2_2"
+        ]
+    },
+    "jesca2": {
+        "name": "char_1034_jesca2",
+        "avatar": "jesca2",
+        "code": "1034",
+        "skin": [
+            "jesca2_1",
+            "jesca2_2"
+        ]
+    },
+    "angel": {
+        "name": "char_103_angel",
+        "avatar": "angel",
+        "code": "103",
+        "skin": [
+            "angel_1",
+            "angel_2",
+            "angel_kfc-1",
+            "angel_sale-8",
+            "angel_wild-1"
+        ]
+    },
+    "franka": {
+        "name": "char_106_franka",
+        "avatar": "franka",
+        "code": "106",
+        "skin": [
+            "franka_1",
+            "franka_2",
+            "franka_ncg-1"
+        ]
+    },
+    "liskam": {
+        "name": "char_107_liskam",
+        "avatar": "liskam",
+        "code": "107",
+        "skin": [
+            "liskam_1",
+            "liskam_2",
+            "liskam_nian-2",
+            "liskam_striker-1"
+        ]
+    },
+    "silent": {
+        "name": "char_108_silent",
+        "avatar": "silent",
+        "code": "108",
+        "skin": [
+            "silent_1",
+            "silent_2",
+            "silent_sweep-1",
+            "silent_winter-2"
+        ]
+    },
+    "fmout": {
+        "name": "char_109_fmout",
+        "avatar": "fmout",
+        "code": "109",
+        "skin": [
+            "fmout_1",
+            "fmout_2",
+            "fmout_epoque-2"
+        ]
+    },
+    "deepcl": {
+        "name": "char_110_deepcl",
+        "avatar": "deepcl",
+        "code": "110",
+        "skin": [
+            "deepcl_1",
+            "deepcl_2",
+            "deepcl_winter-3"
+        ]
+    },
+    "siege": {
+        "name": "char_112_siege",
+        "avatar": "siege",
+        "code": "112",
+        "skin": [
+            "siege_1",
+            "siege_2",
+            "siege_striker-2",
+            "siege_wild-2"
+        ]
+    },
+    "cqbw": {
+        "name": "char_113_cqbw",
+        "avatar": "cqbw",
+        "code": "113",
+        "skin": [
+            "cqbw_1",
+            "cqbw_2",
+            "cqbw_epoque-7"
+        ]
+    },
+    "headbr": {
+        "name": "char_115_headbr",
+        "avatar": "headbr",
+        "code": "115",
+        "skin": [
+            "headbr_1",
+            "headbr_2",
+            "headbr_it-1",
+            "headbr_marthe-2"
+        ]
+    },
+    "myrrh": {
+        "name": "char_117_myrrh",
+        "avatar": "myrrh",
+        "code": "117",
+        "skin": [
+            "myrrh_1",
+            "myrrh_2",
+            "myrrh_wild-1"
+        ]
+    },
+    "yuki": {
+        "name": "char_118_yuki",
+        "avatar": "yuki",
+        "code": "118",
+        "skin": [
+            "yuki_1",
+            "yuki_2",
+            "yuki_boc-2"
+        ]
+    },
+    "hibisc": {
+        "name": "char_120_hibisc",
+        "avatar": "hibisc",
+        "code": "120",
+        "skin": [
+            "hibisc_1",
+            "hibisc_nian-1"
+        ]
+    },
+    "lava": {
+        "name": "char_121_lava",
+        "avatar": "lava",
+        "code": "121",
+        "skin": [
+            "lava_1",
+            "lava_sale-9"
+        ]
+    },
+    "beagle": {
+        "name": "char_122_beagle",
+        "avatar": "beagle",
+        "code": "122",
+        "skin": [
+            "beagle_1",
+            "beagle_boc-1"
+        ]
+    },
+    "fang": {
+        "name": "char_123_fang",
+        "avatar": "fang",
+        "code": "123",
+        "skin": [
+            "fang_1",
+            "fang_winter-1"
+        ]
+    },
+    "kroos": {
+        "name": "char_124_kroos",
+        "avatar": "kroos",
+        "code": "124",
+        "skin": [
+            "kroos_1",
+            "kroos_witch-1"
+        ]
+    },
+    "shotst": {
+        "name": "char_126_shotst",
+        "avatar": "shotst",
+        "code": "126",
+        "skin": [
+            "shotst_1",
+            "shotst_2",
+            "shotst_epoque-10"
+        ]
+    },
+    "estell": {
+        "name": "char_127_estell",
+        "avatar": "estell",
+        "code": "127",
+        "skin": [
+            "estell_1",
+            "estell_2"
+        ]
+    },
+    "plosis": {
+        "name": "char_128_plosis",
+        "avatar": "plosis",
+        "code": "128",
+        "skin": [
+            "plosis_1",
+            "plosis_2",
+            "plosis_epoque-3"
+        ]
+    },
+    "bluep": {
+        "name": "char_129_bluep",
+        "avatar": "bluep",
+        "code": "129",
+        "skin": [
+            "bluep_1",
+            "bluep_2",
+            "bluep_marthe-3"
+        ]
+    },
+    "doberm": {
+        "name": "char_130_doberm",
+        "avatar": "doberm",
+        "code": "130",
+        "skin": [
+            "doberm_1",
+            "doberm_2",
+            "doberm_epoque-7"
+        ]
+    },
+    "flameb": {
+        "name": "char_131_flameb",
+        "avatar": "flameb",
+        "code": "131",
+        "skin": [
+            "flameb_1",
+            "flameb_2",
+            "flameb_summer-8"
+        ]
+    },
+    "mm": {
+        "name": "char_133_mm",
+        "avatar": "mm",
+        "code": "133",
+        "skin": [
+            "mm_1",
+            "mm_2"
+        ]
+    },
+    "ifrit": {
+        "name": "char_134_ifrit",
+        "avatar": "ifrit",
+        "code": "134",
+        "skin": [
+            "ifrit_1",
+            "ifrit_2",
+            "ifrit_kfc-1",
+            "ifrit_summer-1"
+        ]
+    },
+    "halo": {
+        "name": "char_135_halo",
+        "avatar": "halo",
+        "code": "135",
+        "skin": [
+            "halo_1",
+            "halo_2",
+            "halo_epoque-25"
+        ]
+    },
+    "hsguma": {
+        "name": "char_136_hsguma",
+        "avatar": "hsguma",
+        "code": "136",
+        "skin": [
+            "hsguma_1",
+            "hsguma_2",
+            "hsguma_nian-3"
+        ]
+    },
+    "brownb": {
+        "name": "char_137_brownb",
+        "avatar": "brownb",
+        "code": "137",
+        "skin": [
+            "brownb_1",
+            "brownb_2",
+            "brownb_kitchen-1"
+        ]
+    },
+    "whitew": {
+        "name": "char_140_whitew",
+        "avatar": "whitew",
+        "code": "140",
+        "skin": [
+            "whitew_1",
+            "whitew_2",
+            "whitew_boc-1"
+        ]
+    },
+    "nights": {
+        "name": "char_141_nights",
+        "avatar": "nights",
+        "code": "141",
+        "skin": [
+            "nights_1",
+            "nights_2"
+        ]
+    },
+    "ghost": {
+        "name": "char_143_ghost",
+        "avatar": "ghost",
+        "code": "143",
+        "skin": [
+            "ghost_1",
+            "ghost_2",
+            "ghost_winter-1"
+        ]
+    },
+    "red": {
+        "name": "char_144_red",
+        "avatar": "red",
+        "code": "144",
+        "skin": [
+            "red_1",
+            "red_2",
+            "red_summer-6"
+        ]
+    },
+    "prove": {
+        "name": "char_145_prove",
+        "avatar": "prove",
+        "code": "145",
+        "skin": [
+            "prove_1",
+            "prove_2",
+            "prove_summer-3",
+            "prove_wild-5"
+        ]
+    },
+    "shining": {
+        "name": "char_147_shining",
+        "avatar": "shining",
+        "code": "147",
+        "skin": [
+            "shining_1",
+            "shining_2",
+            "shining_summer-1"
+        ]
+    },
+    "nearl": {
+        "name": "char_148_nearl",
+        "avatar": "nearl",
+        "code": "148",
+        "skin": [
+            "nearl_1",
+            "nearl_2",
+            "nearl_summer-2"
+        ]
+    },
+    "scave": {
+        "name": "char_149_scave",
+        "avatar": "scave",
+        "code": "149",
+        "skin": [
+            "scave_1",
+            "scave_2",
+            "scave_striker-2"
+        ]
+    },
+    "snakek": {
+        "name": "char_150_snakek",
+        "avatar": "snakek",
+        "code": "150",
+        "skin": [
+            "snakek_1",
+            "snakek_2",
+            "snakek_wild-1"
+        ]
+    },
+    "myrtle": {
+        "name": "char_151_myrtle",
+        "avatar": "myrtle",
+        "code": "151",
+        "skin": [
+            "myrtle_1",
+            "myrtle_2",
+            "myrtle_epoque-12",
+            "myrtle_summer-12"
+        ]
+    },
+    "morgan": {
+        "name": "char_154_morgan",
+        "avatar": "morgan",
+        "code": "154",
+        "skin": [
+            "morgan_1",
+            "morgan_2"
+        ]
+    },
+    "tiger": {
+        "name": "char_155_tiger",
+        "avatar": "tiger",
+        "code": "155",
+        "skin": [
+            "tiger_1",
+            "tiger_2",
+            "tiger_striker-2"
+        ]
+    },
+    "dagda": {
+        "name": "char_157_dagda",
+        "avatar": "dagda",
+        "code": "157",
+        "skin": [
+            "dagda_1",
+            "dagda_2"
+        ]
+    },
+    "milu": {
+        "name": "char_158_milu",
+        "avatar": "milu",
+        "code": "158",
+        "skin": [
+            "milu_1",
+            "milu_2",
+            "milu_snow-2",
+            "milu_wild-2"
+        ]
+    },
+    "peacok": {
+        "name": "char_159_peacok",
+        "avatar": "peacok",
+        "code": "159",
+        "skin": [
+            "peacok_1",
+            "peacok_2",
+            "peacok_game-1"
+        ]
+    },
+    "hpsts": {
+        "name": "char_163_hpsts",
+        "avatar": "hpsts",
+        "code": "163",
+        "skin": [
+            "hpsts_1",
+            "hpsts_2"
+        ]
+    },
+    "nightm": {
+        "name": "char_164_nightm",
+        "avatar": "nightm",
+        "code": "164",
+        "skin": [
+            "nightm_1",
+            "nightm_2",
+            "nightm_epoque-5"
+        ]
+    },
+    "skfire": {
+        "name": "char_166_skfire",
+        "avatar": "skfire",
+        "code": "166",
+        "skin": [
+            "skfire_1",
+            "skfire_2",
+            "skfire_summer-1"
+        ]
+    },
+    "bldsk": {
+        "name": "char_171_bldsk",
+        "avatar": "bldsk",
+        "code": "171",
+        "skin": [
+            "bldsk_1",
+            "bldsk_2",
+            "bldsk_summer-7",
+            "bldsk_witch-1"
+        ]
+    },
+    "svrash": {
+        "name": "char_172_svrash",
+        "avatar": "svrash",
+        "code": "172",
+        "skin": [
+            "svrash_1",
+            "svrash_2",
+            "svrash_snow-1",
+            "svrash_summer-4"
+        ]
+    },
+    "slchan": {
+        "name": "char_173_slchan",
+        "avatar": "slchan",
+        "code": "173",
+        "skin": [
+            "slchan_1",
+            "slchan_2",
+            "slchan_wild-1",
+            "slchan_wwf-1"
+        ]
+    },
+    "slbell": {
+        "name": "char_174_slbell",
+        "avatar": "slbell",
+        "code": "174",
+        "skin": [
+            "slbell_1",
+            "slbell_2",
+            "slbell_snow-1"
+        ]
+    },
+    "cgbird": {
+        "name": "char_179_cgbird",
+        "avatar": "cgbird",
+        "code": "179",
+        "skin": [
+            "cgbird_1",
+            "cgbird_2",
+            "cgbird_witch-1"
+        ]
+    },
+    "amgoat": {
+        "name": "char_180_amgoat",
+        "avatar": "amgoat",
+        "code": "180",
+        "skin": [
+            "amgoat_1",
+            "amgoat_2",
+            "amgoat_summer-5"
+        ]
+    },
+    "flower": {
+        "name": "char_181_flower",
+        "avatar": "flower",
+        "code": "181",
+        "skin": [
+            "flower_1",
+            "flower_2",
+            "flower_daily-1",
+            "flower_epoque-9"
+        ]
+    },
+    "skgoat": {
+        "name": "char_183_skgoat",
+        "avatar": "skgoat",
+        "code": "183",
+        "skin": [
+            "skgoat_1",
+            "skgoat_2"
+        ]
+    },
+    "frncat": {
+        "name": "char_185_frncat",
+        "avatar": "frncat",
+        "code": "185",
+        "skin": [
+            "frncat_1",
+            "frncat_2",
+            "frncat_wild-7"
+        ]
+    },
+    "ccheal": {
+        "name": "char_187_ccheal",
+        "avatar": "ccheal",
+        "code": "187",
+        "skin": [
+            "ccheal_1",
+            "ccheal_2",
+            "ccheal_epoque-2"
+        ]
+    },
+    "helage": {
+        "name": "char_188_helage",
+        "avatar": "helage",
+        "code": "188",
+        "skin": [
+            "helage_1",
+            "helage_2",
+            "helage_boc-2"
+        ]
+    },
+    "clour": {
+        "name": "char_190_clour",
+        "avatar": "clour",
+        "code": "190",
+        "skin": [
+            "clour_1",
+            "clour_2"
+        ]
+    },
+    "falco": {
+        "name": "char_192_falco",
+        "avatar": "falco",
+        "code": "192",
+        "skin": [
+            "falco_1"
+        ]
+    },
+    "frostl": {
+        "name": "char_193_frostl",
+        "avatar": "frostl",
+        "code": "193",
+        "skin": [
+            "frostl_1",
+            "frostl_2",
+            "frostl_boc-4"
+        ]
+    },
+    "glassb": {
+        "name": "char_195_glassb",
+        "avatar": "glassb",
+        "code": "195",
+        "skin": [
+            "glassb_1",
+            "glassb_2",
+            "glassb_kitchen-1"
+        ]
+    },
+    "sunbr": {
+        "name": "char_196_sunbr",
+        "avatar": "sunbr",
+        "code": "196",
+        "skin": [
+            "sunbr_1",
+            "sunbr_2",
+            "sunbr_summer-1"
+        ]
+    },
+    "poca": {
+        "name": "char_197_poca",
+        "avatar": "poca",
+        "code": "197",
+        "skin": [
+            "poca_1",
+            "poca_2",
+            "poca_epoque-12"
+        ]
+    },
+    "blackd": {
+        "name": "char_198_blackd",
+        "avatar": "blackd",
+        "code": "198",
+        "skin": [
+            "blackd_1",
+            "blackd_2",
+            "blackd_as-1",
+            "blackd_winter-1"
+        ]
+    },
+    "yak": {
+        "name": "char_199_yak",
+        "avatar": "yak",
+        "code": "199",
+        "skin": [
+            "yak_1",
+            "yak_2",
+            "yak_summer-1"
+        ]
+    },
+    "typhon": {
+        "name": "char_2012_typhon",
+        "avatar": "typhon",
+        "code": "2012",
+        "skin": [
+            "typhon_1",
+            "typhon_2",
+            "typhon_wild-9"
+        ]
+    },
+    "cerber": {
+        "name": "char_2013_cerber",
+        "avatar": "cerber",
+        "code": "2013",
+        "skin": [
+            "cerber_1",
+            "cerber_2",
+            "cerber_summer-4",
+            "cerber_whirlwind-2"
+        ]
+    },
+    "nian": {
+        "name": "char_2014_nian",
+        "avatar": "nian",
+        "code": "2014",
+        "skin": [
+            "nian_1",
+            "nian_2",
+            "nian_nian-4"
+        ]
+    },
+    "dusk": {
+        "name": "char_2015_dusk",
+        "avatar": "dusk",
+        "code": "2015",
+        "skin": [
+            "dusk_1",
+            "dusk_2",
+            "dusk_nian-7"
+        ]
+    },
+    "moeshd": {
+        "name": "char_201_moeshd",
+        "avatar": "moeshd",
+        "code": "201",
+        "skin": [
+            "moeshd_1",
+            "moeshd_2",
+            "moeshd_kfc-1",
+            "moeshd_summer-4"
+        ]
+    },
+    "ling": {
+        "name": "char_2023_ling",
+        "avatar": "ling",
+        "code": "2023",
+        "skin": [
+            "ling_1",
+            "ling_2",
+            "ling_ncg-1",
+            "ling_nian-9"
+        ]
+    },
+    "chyue": {
+        "name": "char_2024_chyue",
+        "avatar": "chyue",
+        "code": "2024",
+        "skin": [
+            "chyue_1",
+            "chyue_2"
+        ]
+    },
+    "demkni": {
+        "name": "char_202_demkni",
+        "avatar": "demkni",
+        "code": "202",
+        "skin": [
+            "demkni_1",
+            "demkni_2",
+            "demkni_boc-1",
+            "demkni_test-1"
+        ]
+    },
+    "platnm": {
+        "name": "char_204_platnm",
+        "avatar": "platnm",
+        "code": "204",
+        "skin": [
+            "platnm_1",
+            "platnm_2",
+            "platnm_summer-3"
+        ]
+    },
+    "gnosis": {
+        "name": "char_206_gnosis",
+        "avatar": "gnosis",
+        "code": "206",
+        "skin": [
+            "gnosis_1",
+            "gnosis_2",
+            "gnosis_boc-4"
+        ]
+    },
+    "melan": {
+        "name": "char_208_melan",
+        "avatar": "melan",
+        "code": "208",
+        "skin": [
+            "melan_1",
+            "melan_epoque-1"
+        ]
+    },
+    "ardign": {
+        "name": "char_209_ardign",
+        "avatar": "ardign",
+        "code": "209",
+        "skin": [
+            "ardign_1",
+            "ardign_epoque-26",
+            "ardign_snow-1"
+        ]
+    },
+    "stward": {
+        "name": "char_210_stward",
+        "avatar": "stward",
+        "code": "210",
+        "skin": [
+            "stward_1",
+            "stward_sale-6"
+        ]
+    },
+    "adnach": {
+        "name": "char_211_adnach",
+        "avatar": "adnach",
+        "code": "211",
+        "skin": [
+            "adnach_1",
+            "adnach_sale-5"
+        ]
+    },
+    "ansel": {
+        "name": "char_212_ansel",
+        "avatar": "ansel",
+        "code": "212",
+        "skin": [
+            "ansel_1",
+            "ansel_summer-1"
+        ]
+    },
+    "mostma": {
+        "name": "char_213_mostma",
+        "avatar": "mostma",
+        "code": "213",
+        "skin": [
+            "mostma_1",
+            "mostma_2",
+            "mostma_epoque-5"
+        ]
+    },
+    "kafka": {
+        "name": "char_214_kafka",
+        "avatar": "kafka",
+        "code": "214",
+        "skin": [
+            "kafka_1",
+            "kafka_2",
+            "kafka_snow-3"
+        ]
+    },
+    "mantic": {
+        "name": "char_215_mantic",
+        "avatar": "mantic",
+        "code": "215",
+        "skin": [
+            "mantic_1",
+            "mantic_2",
+            "mantic_epoque-19",
+            "mantic_epoque-4"
+        ]
+    },
+    "cuttle": {
+        "name": "char_218_cuttle",
+        "avatar": "cuttle",
+        "code": "218",
+        "skin": [
+            "cuttle_1",
+            "cuttle_2",
+            "cuttle_epoque-12"
+        ]
+    },
+    "meteo": {
+        "name": "char_219_meteo",
+        "avatar": "meteo",
+        "code": "219",
+        "skin": [
+            "meteo_1",
+            "meteo_2",
+            "meteo_sweep-1"
+        ]
+    },
+    "grani": {
+        "name": "char_220_grani",
+        "avatar": "grani",
+        "code": "220",
+        "skin": [
+            "grani_1",
+            "grani_2",
+            "grani_epoque-6"
+        ]
+    },
+    "bpipe": {
+        "name": "char_222_bpipe",
+        "avatar": "bpipe",
+        "code": "222",
+        "skin": [
+            "bpipe_1",
+            "bpipe_2",
+            "bpipe_race-1"
+        ]
+    },
+    "haak": {
+        "name": "char_225_haak",
+        "avatar": "haak",
+        "code": "225",
+        "skin": [
+            "haak_1",
+            "haak_2",
+            "haak_nian-4",
+            "haak_nian-5"
+        ]
+    },
+    "hmau": {
+        "name": "char_226_hmau",
+        "avatar": "hmau",
+        "code": "226",
+        "skin": [
+            "hmau_1",
+            "hmau_2",
+            "hmau_nian-4"
+        ]
+    },
+    "savage": {
+        "name": "char_230_savage",
+        "avatar": "savage",
+        "code": "230",
+        "skin": [
+            "savage_1",
+            "savage_2"
+        ]
+    },
+    "jesica": {
+        "name": "char_235_jesica",
+        "avatar": "jesica",
+        "code": "235",
+        "skin": [
+            "jesica_1",
+            "jesica_2",
+            "jesica_nian-2",
+            "jesica_sweep-1",
+            "jesica_wild-2"
+        ]
+    },
+    "rope": {
+        "name": "char_236_rope",
+        "avatar": "rope",
+        "code": "236",
+        "skin": [
+            "rope_1",
+            "rope_2",
+            "rope_summer-2",
+            "rope_witch-1"
+        ]
+    },
+    "gravel": {
+        "name": "char_237_gravel",
+        "avatar": "gravel",
+        "code": "237",
+        "skin": [
+            "gravel_1",
+            "gravel_2",
+            "gravel_winter-2"
+        ]
+    },
+    "wyvern": {
+        "name": "char_240_wyvern",
+        "avatar": "wyvern",
+        "code": "240",
+        "skin": [
+            "wyvern_1"
+        ]
+    },
+    "panda": {
+        "name": "char_241_panda",
+        "avatar": "panda",
+        "code": "241",
+        "skin": [
+            "panda_1",
+            "panda_2",
+            "panda_marthe-1",
+            "panda_nian-7"
+        ]
+    },
+    "otter": {
+        "name": "char_242_otter",
+        "avatar": "otter",
+        "code": "242",
+        "skin": [
+            "otter_1",
+            "otter_2",
+            "otter_ghost-1"
+        ]
+    },
+    "waaifu": {
+        "name": "char_243_waaifu",
+        "avatar": "waaifu",
+        "code": "243",
+        "skin": [
+            "waaifu_1",
+            "waaifu_2",
+            "waaifu_whirlwind-2"
+        ]
+    },
+    "mgllan": {
+        "name": "char_248_mgllan",
+        "avatar": "mgllan",
+        "code": "248",
+        "skin": [
+            "mgllan_1",
+            "mgllan_2",
+            "mgllan_kitchen-1"
+        ]
+    },
+    "mlyss": {
+        "name": "char_249_mlyss",
+        "avatar": "mlyss",
+        "code": "249",
+        "skin": [
+            "mlyss_1",
+            "mlyss_2"
+        ]
+    },
+    "phatom": {
+        "name": "char_250_phatom",
+        "avatar": "phatom",
+        "code": "250",
+        "skin": [
+            "phatom_1",
+            "phatom_2",
+            "phatom_ghost-1",
+            "phatom_sale-4"
+        ]
+    },
+    "bibeak": {
+        "name": "char_252_bibeak",
+        "avatar": "bibeak",
+        "code": "252",
+        "skin": [
+            "bibeak_1",
+            "bibeak_2",
+            "bibeak_winter-2"
+        ]
+    },
+    "greyy": {
+        "name": "char_253_greyy",
+        "avatar": "greyy",
+        "code": "253",
+        "skin": [
+            "greyy_1",
+            "greyy_2",
+            "greyy_epoque-8"
+        ]
+    },
+    "vodfox": {
+        "name": "char_254_vodfox",
+        "avatar": "vodfox",
+        "code": "254",
+        "skin": [
+            "vodfox_1",
+            "vodfox_2",
+            "vodfox_witch-2"
+        ]
+    },
+    "podego": {
+        "name": "char_258_podego",
+        "avatar": "podego",
+        "code": "258",
+        "skin": [
+            "podego_1",
+            "podego_2",
+            "podego_epoque-9"
+        ]
+    },
+    "durnar": {
+        "name": "char_260_durnar",
+        "avatar": "durnar",
+        "code": "260",
+        "skin": [
+            "durnar_1",
+            "durnar_2"
+        ]
+    },
+    "sddrag": {
+        "name": "char_261_sddrag",
+        "avatar": "sddrag",
+        "code": "261",
+        "skin": [
+            "sddrag_1",
+            "sddrag_2",
+            "sddrag_ambienceSynesthesia-2"
+        ]
+    },
+    "skadi": {
+        "name": "char_263_skadi",
+        "avatar": "skadi",
+        "code": "263",
+        "skin": [
+            "skadi_1",
+            "skadi_2",
+            "skadi_marthe-5",
+            "skadi_summer-3"
+        ]
+    },
+    "f12yin": {
+        "name": "char_264_f12yin",
+        "avatar": "f12yin",
+        "code": "264",
+        "skin": [
+            "f12yin_1",
+            "f12yin_2",
+            "f12yin_boc-3",
+            "f12yin_epoque-15"
+        ]
+    },
+    "sophia": {
+        "name": "char_265_sophia",
+        "avatar": "sophia",
+        "code": "265",
+        "skin": [
+            "sophia_1",
+            "sophia_2",
+            "sophia_epoque-11"
+        ]
+    },
+    "spikes": {
+        "name": "char_271_spikes",
+        "avatar": "spikes",
+        "code": "271",
+        "skin": [
+            "spikes_1",
+            "spikes_2",
+            "spikes_winter-2"
+        ]
+    },
+    "strong": {
+        "name": "char_272_strong",
+        "avatar": "strong",
+        "code": "272",
+        "skin": [
+            "strong_1",
+            "strong_2",
+            "strong_summer-6"
+        ]
+    },
+    "astesi": {
+        "name": "char_274_astesi",
+        "avatar": "astesi",
+        "code": "274",
+        "skin": [
+            "astesi_1",
+            "astesi_2",
+            "astesi_epoque-23",
+            "astesi_epoque-5",
+            "astesi_shining-1"
+        ]
+    },
+    "breeze": {
+        "name": "char_275_breeze",
+        "avatar": "breeze",
+        "code": "275",
+        "skin": [
+            "breeze_1",
+            "breeze_2"
+        ]
+    },
+    "sqrrel": {
+        "name": "char_277_sqrrel",
+        "avatar": "sqrrel",
+        "code": "277",
+        "skin": [
+            "sqrrel_1",
+            "sqrrel_2",
+            "sqrrel_ghost-1"
+        ]
+    },
+    "orchid": {
+        "name": "char_278_orchid",
+        "avatar": "orchid",
+        "code": "278",
+        "skin": [
+            "orchid_1",
+            "orchid_boc-6"
+        ]
+    },
+    "excu": {
+        "name": "char_279_excu",
+        "avatar": "excu",
+        "code": "279",
+        "skin": [
+            "excu_1",
+            "excu_2",
+            "excu_boc-1"
+        ]
+    },
+    "knit3": {
+        "name": "char_279_knit3",
+        "avatar": "knit3",
+        "code": "279",
+        "skin": []
+    },
+    "popka": {
+        "name": "char_281_popka",
+        "avatar": "popka",
+        "code": "281",
+        "skin": [
+            "popka_1"
+        ]
+    },
+    "catap": {
+        "name": "char_282_catap",
+        "avatar": "catap",
+        "code": "282",
+        "skin": [
+            "catap_1"
+        ]
+    },
+    "midn": {
+        "name": "char_283_midn",
+        "avatar": "midn",
+        "code": "283",
+        "skin": [
+            "midn_1",
+            "midn_boc-1"
+        ]
+    },
+    "spot": {
+        "name": "char_284_spot",
+        "avatar": "spot",
+        "code": "284",
+        "skin": [
+            "spot_1",
+            "spot_boc-3"
+        ]
+    },
+    "medic2": {
+        "name": "char_285_medic2",
+        "avatar": "medic2",
+        "code": "285",
+        "skin": [
+            "medic2_1",
+            "medic2_boc-4"
+        ]
+    },
+    "cast3": {
+        "name": "char_286_cast3",
+        "avatar": "cast3",
+        "code": "286",
+        "skin": [
+            "cast3_1",
+            "cast3_summer-1"
+        ]
+    },
+    "gyuki": {
+        "name": "char_289_gyuki",
+        "avatar": "gyuki",
+        "code": "289",
+        "skin": [
+            "gyuki_1",
+            "gyuki_2"
+        ]
+    },
+    "vigna": {
+        "name": "char_290_vigna",
+        "avatar": "vigna",
+        "code": "290",
+        "skin": [
+            "vigna_1",
+            "vigna_2",
+            "vigna_as-1",
+            "vigna_summer-1"
+        ]
+    },
+    "aglina": {
+        "name": "char_291_aglina",
+        "avatar": "aglina",
+        "code": "291",
+        "skin": [
+            "aglina_1",
+            "aglina_2",
+            "aglina_boc-1",
+            "aglina_summer-5"
+        ]
+    },
+    "thorns": {
+        "name": "char_293_thorns",
+        "avatar": "thorns",
+        "code": "293",
+        "skin": [
+            "thorns_1",
+            "thorns_2",
+            "thorns_it-1"
+        ]
+    },
+    "ayer": {
+        "name": "char_294_ayer",
+        "avatar": "ayer",
+        "code": "294",
+        "skin": [
+            "ayer_1",
+            "ayer_2",
+            "ayer_boc-3"
+        ]
+    },
+    "hamoni": {
+        "name": "char_297_hamoni",
+        "avatar": "hamoni",
+        "code": "297",
+        "skin": [
+            "hamoni_1",
+            "hamoni_2",
+            "hamoni_epoque-24"
+        ]
+    },
+    "susuro": {
+        "name": "char_298_susuro",
+        "avatar": "susuro",
+        "code": "298",
+        "skin": [
+            "susuro_1",
+            "susuro_2",
+            "susuro_summer-6"
+        ]
+    },
+    "phenxi": {
+        "name": "char_300_phenxi",
+        "avatar": "phenxi",
+        "code": "300",
+        "skin": [
+            "phenxi_1",
+            "phenxi_2",
+            "phenxi_witch-4"
+        ]
+    },
+    "cutter": {
+        "name": "char_301_cutter",
+        "avatar": "cutter",
+        "code": "301",
+        "skin": [
+            "cutter_1",
+            "cutter_2"
+        ]
+    },
+    "glaze": {
+        "name": "char_302_glaze",
+        "avatar": "glaze",
+        "code": "302",
+        "skin": [
+            "glaze_1",
+            "glaze_2",
+            "glaze_summer-11"
+        ]
+    },
+    "zebra": {
+        "name": "char_304_zebra",
+        "avatar": "zebra",
+        "code": "304",
+        "skin": [
+            "zebra_1",
+            "zebra_2",
+            "zebra_wild-6"
+        ]
+    },
+    "leizi": {
+        "name": "char_306_leizi",
+        "avatar": "leizi",
+        "code": "306",
+        "skin": [
+            "leizi_1",
+            "leizi_2"
+        ]
+    },
+    "swire": {
+        "name": "char_308_swire",
+        "avatar": "swire",
+        "code": "308",
+        "skin": [
+            "swire_1",
+            "swire_2",
+            "swire_nian-2"
+        ]
+    },
+    "mudrok": {
+        "name": "char_311_mudrok",
+        "avatar": "mudrok",
+        "code": "311",
+        "skin": [
+            "mudrok_1",
+            "mudrok_2",
+            "mudrok_ambienceSynesthesia-2",
+            "mudrok_summer-6"
+        ]
+    },
+    "lmlee": {
+        "name": "char_322_lmlee",
+        "avatar": "lmlee",
+        "code": "322",
+        "skin": [
+            "lmlee_1",
+            "lmlee_2",
+            "lmlee_witch-3"
+        ]
+    },
+    "bison": {
+        "name": "char_325_bison",
+        "avatar": "bison",
+        "code": "325",
+        "skin": [
+            "bison_1",
+            "bison_2"
+        ]
+    },
+    "glacus": {
+        "name": "char_326_glacus",
+        "avatar": "glacus",
+        "code": "326",
+        "skin": [
+            "glacus_1",
+            "glacus_2",
+            "glacus_ghost-1"
+        ]
+    },
+    "cammou": {
+        "name": "char_328_cammou",
+        "avatar": "cammou",
+        "code": "328",
+        "skin": [
+            "cammou_1",
+            "cammou_2",
+            "cammou_witch-2"
+        ]
+    },
+    "archet": {
+        "name": "char_332_archet",
+        "avatar": "archet",
+        "code": "332",
+        "skin": [
+            "archet_1",
+            "archet_2",
+            "archet_shining-1"
+        ]
+    },
+    "sidero": {
+        "name": "char_333_sidero",
+        "avatar": "sidero",
+        "code": "333",
+        "skin": [
+            "sidero_1",
+            "sidero_2",
+            "sidero_summer-6"
+        ]
+    },
+    "folivo": {
+        "name": "char_336_folivo",
+        "avatar": "folivo",
+        "code": "336",
+        "skin": [
+            "folivo_1",
+            "folivo_2",
+            "folivo_epoque-22"
+        ]
+    },
+    "utage": {
+        "name": "char_337_utage",
+        "avatar": "utage",
+        "code": "337",
+        "skin": [
+            "utage_1",
+            "utage_2",
+            "utage_epoque-15",
+            "utage_summer-4"
+        ]
+    },
+    "iris": {
+        "name": "char_338_iris",
+        "avatar": "iris",
+        "code": "338",
+        "skin": [
+            "iris_1",
+            "iris_2",
+            "iris_witch-3"
+        ]
+    },
+    "shwaz": {
+        "name": "char_340_shwaz",
+        "avatar": "shwaz",
+        "code": "340",
+        "skin": [
+            "shwaz_1",
+            "shwaz_2",
+            "shwaz_snow-1",
+            "shwaz_striker-1"
+        ]
+    },
+    "sntlla": {
+        "name": "char_341_sntlla",
+        "avatar": "sntlla",
+        "code": "341",
+        "skin": [
+            "sntlla_1",
+            "sntlla_2"
+        ]
+    },
+    "tknogi": {
+        "name": "char_343_tknogi",
+        "avatar": "tknogi",
+        "code": "343",
+        "skin": [
+            "tknogi_1",
+            "tknogi_2",
+            "tknogi_epoque-9"
+        ]
+    },
+    "beewax": {
+        "name": "char_344_beewax",
+        "avatar": "beewax",
+        "code": "344",
+        "skin": [
+            "beewax_1",
+            "beewax_2",
+            "beewax_epoque-9",
+            "beewax_summer-11"
+        ]
+    },
+    "folnic": {
+        "name": "char_345_folnic",
+        "avatar": "folnic",
+        "code": "345",
+        "skin": [
+            "folnic_1",
+            "folnic_2",
+            "folnic_wild-4"
+        ]
+    },
+    "aosta": {
+        "name": "char_346_aosta",
+        "avatar": "aosta",
+        "code": "346",
+        "skin": [
+            "aosta_1",
+            "aosta_2",
+            "aosta_game-2"
+        ]
+    },
+    "jaksel": {
+        "name": "char_347_jaksel",
+        "avatar": "jaksel",
+        "code": "347",
+        "skin": [
+            "jaksel_1",
+            "jaksel_2",
+            "jaksel_whirlwind-2"
+        ]
+    },
+    "ceylon": {
+        "name": "char_348_ceylon",
+        "avatar": "ceylon",
+        "code": "348",
+        "skin": [
+            "ceylon_1",
+            "ceylon_2",
+            "ceylon_summer-13"
+        ]
+    },
+    "chiave": {
+        "name": "char_349_chiave",
+        "avatar": "chiave",
+        "code": "349",
+        "skin": [
+            "chiave_1",
+            "chiave_2"
+        ]
+    },
+    "surtr": {
+        "name": "char_350_surtr",
+        "avatar": "surtr",
+        "code": "350",
+        "skin": [
+            "surtr_1",
+            "surtr_2",
+            "surtr_it-1",
+            "surtr_summer-9"
+        ]
+    },
+    "ethan": {
+        "name": "char_355_ethan",
+        "avatar": "ethan",
+        "code": "355",
+        "skin": [
+            "ethan_1",
+            "ethan_2",
+            "ethan_epoque-7"
+        ]
+    },
+    "broca": {
+        "name": "char_356_broca",
+        "avatar": "broca",
+        "code": "356",
+        "skin": [
+            "broca_1",
+            "broca_2",
+            "broca_marthe-4"
+        ]
+    },
+    "lisa": {
+        "name": "char_358_lisa",
+        "avatar": "lisa",
+        "code": "358",
+        "skin": [
+            "lisa_1",
+            "lisa_2",
+            "lisa_epoque-22",
+            "lisa_lxh-1",
+            "lisa_wild-3"
+        ]
+    },
+    "saga": {
+        "name": "char_362_saga",
+        "avatar": "saga",
+        "code": "362",
+        "skin": [
+            "saga_1",
+            "saga_2",
+            "saga_sale-9"
+        ]
+    },
+    "toddi": {
+        "name": "char_363_toddi",
+        "avatar": "toddi",
+        "code": "363",
+        "skin": [
+            "toddi_1",
+            "toddi_2"
+        ]
+    },
+    "aprl": {
+        "name": "char_365_aprl",
+        "avatar": "aprl",
+        "code": "365",
+        "skin": [
+            "aprl_1",
+            "aprl_2",
+            "aprl_wild-3"
+        ]
+    },
+    "acdrop": {
+        "name": "char_366_acdrop",
+        "avatar": "acdrop",
+        "code": "366",
+        "skin": [
+            "acdrop_1",
+            "acdrop_2",
+            "acdrop_whirlwind-4"
+        ]
+    },
+    "swllow": {
+        "name": "char_367_swllow",
+        "avatar": "swllow",
+        "code": "367",
+        "skin": [
+            "swllow_1",
+            "swllow_2",
+            "swllow_boc-1"
+        ]
+    },
+    "bena": {
+        "name": "char_369_bena",
+        "avatar": "bena",
+        "code": "369",
+        "skin": [
+            "bena_1",
+            "bena_2"
+        ]
+    },
+    "lionhd": {
+        "name": "char_373_lionhd",
+        "avatar": "lionhd",
+        "code": "373",
+        "skin": [
+            "lionhd_1",
+            "lionhd_2",
+            "lionhd_snow-3",
+            "lionhd_wild-3"
+        ]
+    },
+    "therex": {
+        "name": "char_376_therex",
+        "avatar": "therex",
+        "code": "376",
+        "skin": [
+            "therex_1"
+        ]
+    },
+    "gdglow": {
+        "name": "char_377_gdglow",
+        "avatar": "gdglow",
+        "code": "377",
+        "skin": [
+            "gdglow_1",
+            "gdglow_2",
+            "gdglow_snow-5",
+            "gdglow_summer-12"
+        ]
+    },
+    "asbest": {
+        "name": "char_378_asbest",
+        "avatar": "asbest",
+        "code": "378",
+        "skin": [
+            "asbest_1",
+            "asbest_2",
+            "asbest_whirlwind-3"
+        ]
+    },
+    "sesa": {
+        "name": "char_379_sesa",
+        "avatar": "sesa",
+        "code": "379",
+        "skin": [
+            "sesa_1",
+            "sesa_2"
+        ]
+    },
+    "bubble": {
+        "name": "char_381_bubble",
+        "avatar": "bubble",
+        "code": "381",
+        "skin": [
+            "bubble_1",
+            "bubble_2"
+        ]
+    },
+    "snsant": {
+        "name": "char_383_snsant",
+        "avatar": "snsant",
+        "code": "383",
+        "skin": [
+            "snsant_1",
+            "snsant_2",
+            "snsant_witch-2"
+        ]
+    },
+    "finlpp": {
+        "name": "char_385_finlpp",
+        "avatar": "finlpp",
+        "code": "385",
+        "skin": [
+            "finlpp_1",
+            "finlpp_2"
+        ]
+    },
+    "mint": {
+        "name": "char_388_mint",
+        "avatar": "mint",
+        "code": "388",
+        "skin": [
+            "mint_1",
+            "mint_2",
+            "mint_epoque-22"
+        ]
+    },
+    "rosmon": {
+        "name": "char_391_rosmon",
+        "avatar": "rosmon",
+        "code": "391",
+        "skin": [
+            "rosmon_1",
+            "rosmon_2",
+            "rosmon_epoque-17"
+        ]
+    },
+    "jnight": {
+        "name": "char_4000_jnight",
+        "avatar": "jnight",
+        "code": "4000",
+        "skin": [
+            "jnight_1",
+            "jnight_boc-7"
+        ]
+    },
+    "pudd": {
+        "name": "char_4004_pudd",
+        "avatar": "pudd",
+        "code": "4004",
+        "skin": [
+            "pudd_1",
+            "pudd_2",
+            "pudd_snow-5"
+        ]
+    },
+    "melnte": {
+        "name": "char_4006_melnte",
+        "avatar": "melnte",
+        "code": "4006",
+        "skin": [
+            "melnte_1",
+            "melnte_2"
+        ]
+    },
+    "irene": {
+        "name": "char_4009_irene",
+        "avatar": "irene",
+        "code": "4009",
+        "skin": [
+            "irene_1",
+            "irene_2",
+            "irene_ambienceSynesthesia-3"
+        ]
+    },
+    "weedy": {
+        "name": "char_400_weedy",
+        "avatar": "weedy",
+        "code": "400",
+        "skin": [
+            "weedy_1",
+            "weedy_2",
+            "weedy_snow-2"
+        ]
+    },
+    "kjera": {
+        "name": "char_4013_kjera",
+        "avatar": "kjera",
+        "code": "4013",
+        "skin": [
+            "kjera_1",
+            "kjera_2",
+            "kjera_epoque-18"
+        ]
+    },
+    "lunacu": {
+        "name": "char_4014_lunacu",
+        "avatar": "lunacu",
+        "code": "4014",
+        "skin": [
+            "lunacu_1",
+            "lunacu_2",
+            "lunacu_yun-1"
+        ]
+    },
+    "spuria": {
+        "name": "char_4015_spuria",
+        "avatar": "spuria",
+        "code": "4015",
+        "skin": [
+            "spuria_1",
+            "spuria_2"
+        ]
+    },
+    "kazema": {
+        "name": "char_4016_kazema",
+        "avatar": "kazema",
+        "code": "4016",
+        "skin": [
+            "kazema_1",
+            "kazema_2",
+            "kazema_witch-3"
+        ]
+    },
+    "puzzle": {
+        "name": "char_4017_puzzle",
+        "avatar": "puzzle",
+        "code": "4017",
+        "skin": [
+            "puzzle_1",
+            "puzzle_2"
+        ]
+    },
+    "ncdeer": {
+        "name": "char_4019_ncdeer",
+        "avatar": "ncdeer",
+        "code": "4019",
+        "skin": [
+            "ncdeer_1",
+            "ncdeer_2",
+            "ncdeer_ncdeer-1"
+        ]
+    },
+    "elysm": {
+        "name": "char_401_elysm",
+        "avatar": "elysm",
+        "code": "401",
+        "skin": [
+            "elysm_1",
+            "elysm_2",
+            "elysm_snow-2",
+            "elysm_summer-9"
+        ]
+    },
+    "aprot2": {
+        "name": "char_4025_aprot2",
+        "avatar": "aprot2",
+        "code": "4025",
+        "skin": [
+            "aprot2_1",
+            "aprot2_2",
+            "aprot2_whirlwind-5"
+        ]
+    },
+    "heyak": {
+        "name": "char_4027_heyak",
+        "avatar": "heyak",
+        "code": "4027",
+        "skin": [
+            "heyak_1",
+            "heyak_2"
+        ]
+    },
+    "tuye": {
+        "name": "char_402_tuye",
+        "avatar": "tuye",
+        "code": "402",
+        "skin": [
+            "tuye_1",
+            "tuye_2",
+            "tuye_epoque-14"
+        ]
+    },
+    "provs": {
+        "name": "char_4032_provs",
+        "avatar": "provs",
+        "code": "4032",
+        "skin": [
+            "provs_1",
+            "provs_2",
+            "provs_wild-7"
+        ]
+    },
+    "forcer": {
+        "name": "char_4036_forcer",
+        "avatar": "forcer",
+        "code": "4036",
+        "skin": [
+            "forcer_1",
+            "forcer_2",
+            "forcer_epoque-20"
+        ]
+    },
+    "horn": {
+        "name": "char_4039_horn",
+        "avatar": "horn",
+        "code": "4039",
+        "skin": [
+            "horn_1",
+            "horn_2",
+            "horn_epoque-24"
+        ]
+    },
+    "rockr": {
+        "name": "char_4040_rockr",
+        "avatar": "rockr",
+        "code": "4040",
+        "skin": [
+            "rockr_1",
+            "rockr_2",
+            "rockr_lxh-1"
+        ]
+    },
+    "chnut": {
+        "name": "char_4041_chnut",
+        "avatar": "chnut",
+        "code": "4041",
+        "skin": [
+            "chnut_1",
+            "chnut_2",
+            "chnut_summer-12"
+        ]
+    },
+    "lumen": {
+        "name": "char_4042_lumen",
+        "avatar": "lumen",
+        "code": "4042",
+        "skin": [
+            "lumen_1",
+            "lumen_2",
+            "lumen_ambienceSynesthesia-3"
+        ]
+    },
+    "erato": {
+        "name": "char_4043_erato",
+        "avatar": "erato",
+        "code": "4043",
+        "skin": [
+            "erato_1",
+            "erato_2",
+            "erato_snow-5"
+        ]
+    },
+    "heidi": {
+        "name": "char_4045_heidi",
+        "avatar": "heidi",
+        "code": "4045",
+        "skin": [
+            "heidi_1",
+            "heidi_2",
+            "heidi_epoque-24"
+        ]
+    },
+    "ebnhlz": {
+        "name": "char_4046_ebnhlz",
+        "avatar": "ebnhlz",
+        "code": "4046",
+        "skin": [
+            "ebnhlz_1",
+            "ebnhlz_2",
+            "ebnhlz_boc-6"
+        ]
+    },
+    "pianst": {
+        "name": "char_4047_pianst",
+        "avatar": "pianst",
+        "code": "4047",
+        "skin": [
+            "pianst_1",
+            "pianst_2",
+            "pianst_wild-8"
+        ]
+    },
+    "doroth": {
+        "name": "char_4048_doroth",
+        "avatar": "doroth",
+        "code": "4048",
+        "skin": [
+            "doroth_1",
+            "doroth_2",
+            "doroth_witch-4"
+        ]
+    },
+    "malist": {
+        "name": "char_4054_malist",
+        "avatar": "malist",
+        "code": "4054",
+        "skin": [
+            "malist_1",
+            "malist_2",
+            "malist_summer-14"
+        ]
+    },
+    "bgsnow": {
+        "name": "char_4055_bgsnow",
+        "avatar": "bgsnow",
+        "code": "4055",
+        "skin": [
+            "bgsnow_1",
+            "bgsnow_2",
+            "bgsnow_wild-7"
+        ]
+    },
+    "absin": {
+        "name": "char_405_absin",
+        "avatar": "absin",
+        "code": "405",
+        "skin": [
+            "absin_1",
+            "absin_2"
+        ]
+    },
+    "totter": {
+        "name": "char_4062_totter",
+        "avatar": "totter",
+        "code": "4062",
+        "skin": [
+            "totter_1",
+            "totter_2"
+        ]
+    },
+    "quartz": {
+        "name": "char_4063_quartz",
+        "avatar": "quartz",
+        "code": "4063",
+        "skin": [
+            "quartz_1",
+            "quartz_2"
+        ]
+    },
+    "mlynar": {
+        "name": "char_4064_mlynar",
+        "avatar": "mlynar",
+        "code": "4064",
+        "skin": [
+            "mlynar_1",
+            "mlynar_2"
+        ]
+    },
+    "judge": {
+        "name": "char_4065_judge",
+        "avatar": "judge",
+        "code": "4065",
+        "skin": [
+            "judge_1",
+            "judge_2"
+        ]
+    },
+    "highmo": {
+        "name": "char_4066_highmo",
+        "avatar": "highmo",
+        "code": "4066",
+        "skin": [
+            "highmo_1",
+            "highmo_2"
+        ]
+    },
+    "lolxh": {
+        "name": "char_4067_lolxh",
+        "avatar": "lolxh",
+        "code": "4067",
+        "skin": [
+            "lolxh_1",
+            "lolxh_2"
+        ]
+    },
+    "peper": {
+        "name": "char_4071_peper",
+        "avatar": "peper",
+        "code": "4071",
+        "skin": [
+            "peper_1",
+            "peper_2",
+            "peper_whirlwind-5"
+        ]
+    },
+    "ironmn": {
+        "name": "char_4072_ironmn",
+        "avatar": "ironmn",
+        "code": "4072",
+        "skin": [
+            "ironmn_1",
+            "ironmn_2",
+            "ironmn_summer-11"
+        ]
+    },
+    "palico": {
+        "name": "char_4077_palico",
+        "avatar": "palico",
+        "code": "4077",
+        "skin": [
+            "palico_1",
+            "palico_mh-1"
+        ]
+    },
+    "bdhkgt": {
+        "name": "char_4078_bdhkgt",
+        "avatar": "bdhkgt",
+        "code": "4078",
+        "skin": [
+            "bdhkgt_1",
+            "bdhkgt_2"
+        ]
+    },
+    "lin": {
+        "name": "char_4080_lin",
+        "avatar": "lin",
+        "code": "4080",
+        "skin": [
+            "lin_1",
+            "lin_2"
+        ]
+    },
+    "qiubai": {
+        "name": "char_4082_qiubai",
+        "avatar": "qiubai",
+        "code": "4082",
+        "skin": [
+            "qiubai_1",
+            "qiubai_2",
+            "qiubai_ncg-1"
+        ]
+    },
+    "chimes": {
+        "name": "char_4083_chimes",
+        "avatar": "chimes",
+        "code": "4083",
+        "skin": [
+            "chimes_1",
+            "chimes_2"
+        ]
+    },
+    "ines": {
+        "name": "char_4087_ines",
+        "avatar": "ines",
+        "code": "4087",
+        "skin": [
+            "ines_1",
+            "ines_2"
+        ]
+    },
+    "hodrer": {
+        "name": "char_4088_hodrer",
+        "avatar": "hodrer",
+        "code": "4088",
+        "skin": [
+            "hodrer_1",
+            "hodrer_2"
+        ]
+    },
+    "ulika": {
+        "name": "char_4091_ulika",
+        "avatar": "ulika",
+        "code": "4091",
+        "skin": [
+            "ulika_1"
+        ]
+    },
+    "frston": {
+        "name": "char_4093_frston",
+        "avatar": "frston",
+        "code": "4093",
+        "skin": [
+            "frston_1"
+        ]
+    },
+    "threye": {
+        "name": "char_4102_threye",
+        "avatar": "threye",
+        "code": "4102",
+        "skin": [
+            "threye_1",
+            "threye_2"
+        ]
+    },
+    "coldst": {
+        "name": "char_4104_coldst",
+        "avatar": "coldst",
+        "code": "4104",
+        "skin": [
+            "coldst_1",
+            "coldst_2"
+        ]
+    },
+    "almond": {
+        "name": "char_4105_almond",
+        "avatar": "almond",
+        "code": "4105",
+        "skin": [
+            "almond_1",
+            "almond_2"
+        ]
+    },
+    "bryota": {
+        "name": "char_4106_bryota",
+        "avatar": "bryota",
+        "code": "4106",
+        "skin": [
+            "bryota_1",
+            "bryota_2"
+        ]
+    },
+    "vrdant": {
+        "name": "char_4107_vrdant",
+        "avatar": "vrdant",
+        "code": "4107",
+        "skin": [
+            "vrdant_1",
+            "vrdant_2"
+        ]
+    },
+    "delphn": {
+        "name": "char_4110_delphn",
+        "avatar": "delphn",
+        "code": "4110",
+        "skin": [
+            "delphn_1",
+            "delphn_2"
+        ]
+    },
+    "tomimi": {
+        "name": "char_411_tomimi",
+        "avatar": "tomimi",
+        "code": "411",
+        "skin": [
+            "tomimi_1",
+            "tomimi_2",
+            "tomimi_summer-5"
+        ]
+    },
+    "flint": {
+        "name": "char_415_flint",
+        "avatar": "flint",
+        "code": "415",
+        "skin": [
+            "flint_1",
+            "flint_2",
+            "flint_boc-3"
+        ]
+    },
+    "zumama": {
+        "name": "char_416_zumama",
+        "avatar": "zumama",
+        "code": "416",
+        "skin": [
+            "zumama_1",
+            "zumama_2",
+            "zumama_boc-3"
+        ]
+    },
+    "flamtl": {
+        "name": "char_420_flamtl",
+        "avatar": "flamtl",
+        "code": "420",
+        "skin": [
+            "flamtl_1",
+            "flamtl_2",
+            "flamtl_game-2"
+        ]
+    },
+    "crow": {
+        "name": "char_421_crow",
+        "avatar": "crow",
+        "code": "421",
+        "skin": [
+            "crow_1",
+            "crow_2",
+            "crow_summer-9"
+        ]
+    },
+    "aurora": {
+        "name": "char_422_aurora",
+        "avatar": "aurora",
+        "code": "422",
+        "skin": [
+            "aurora_1",
+            "aurora_2",
+            "aurora_boc-4"
+        ]
+    },
+    "blemsh": {
+        "name": "char_423_blemsh",
+        "avatar": "blemsh",
+        "code": "423",
+        "skin": [
+            "blemsh_1",
+            "blemsh_2",
+            "blemsh_witch-2"
+        ]
+    },
+    "billro": {
+        "name": "char_426_billro",
+        "avatar": "billro",
+        "code": "426",
+        "skin": [
+            "billro_1",
+            "billro_2",
+            "billro_snow-3",
+            "billro_summer-8"
+        ]
+    },
+    "vigil": {
+        "name": "char_427_vigil",
+        "avatar": "vigil",
+        "code": "427",
+        "skin": [
+            "vigil_1",
+            "vigil_2",
+            "vigil_epoque-27"
+        ]
+    },
+    "fartth": {
+        "name": "char_430_fartth",
+        "avatar": "fartth",
+        "code": "430",
+        "skin": [
+            "fartth_1",
+            "fartth_2",
+            "fartth_whirlwind-5"
+        ]
+    },
+    "ashlok": {
+        "name": "char_431_ashlok",
+        "avatar": "ashlok",
+        "code": "431",
+        "skin": [
+            "ashlok_1",
+            "ashlok_2"
+        ]
+    },
+    "windft": {
+        "name": "char_433_windft",
+        "avatar": "windft",
+        "code": "433",
+        "skin": [
+            "windft_1",
+            "windft_2"
+        ]
+    },
+    "whispr": {
+        "name": "char_436_whispr",
+        "avatar": "whispr",
+        "code": "436",
+        "skin": [
+            "whispr_1",
+            "whispr_2",
+            "whispr_nian-4",
+            "whispr_witch-4"
+        ]
+    },
+    "mizuki": {
+        "name": "char_437_mizuki",
+        "avatar": "mizuki",
+        "code": "437",
+        "skin": [
+            "mizuki_1",
+            "mizuki_2",
+            "mizuki_sale-7"
+        ]
+    },
+    "pinecn": {
+        "name": "char_440_pinecn",
+        "avatar": "pinecn",
+        "code": "440",
+        "skin": [
+            "pinecn_1",
+            "pinecn_2",
+            "pinecn_shining-1"
+        ]
+    },
+    "glider": {
+        "name": "char_449_glider",
+        "avatar": "glider",
+        "code": "449",
+        "skin": [
+            "glider_1",
+            "glider_2",
+            "glider_epoque-17"
+        ]
+    },
+    "robin": {
+        "name": "char_451_robin",
+        "avatar": "robin",
+        "code": "451",
+        "skin": [
+            "robin_-0",
+            "robin_1",
+            "robin_2",
+            "robin_epoque-13"
+        ]
+    },
+    "bstalk": {
+        "name": "char_452_bstalk",
+        "avatar": "bstalk",
+        "code": "452",
+        "skin": [
+            "bstalk_1",
+            "bstalk_2",
+            "bstalk_snow-4"
+        ]
+    },
+    "nothin": {
+        "name": "char_455_nothin",
+        "avatar": "nothin",
+        "code": "455",
+        "skin": [
+            "nothin_1",
+            "nothin_2",
+            "nothin_nian-7"
+        ]
+    },
+    "ash": {
+        "name": "char_456_ash",
+        "avatar": "ash",
+        "code": "456",
+        "skin": [
+            "ash_1",
+            "ash_2",
+            "ash_rainbow6-1"
+        ]
+    },
+    "blitz": {
+        "name": "char_457_blitz",
+        "avatar": "blitz",
+        "code": "457",
+        "skin": [
+            "blitz_1",
+            "blitz_2"
+        ]
+    },
+    "rfrost": {
+        "name": "char_458_rfrost",
+        "avatar": "rfrost",
+        "code": "458",
+        "skin": [
+            "rfrost_1",
+            "rfrost_2"
+        ]
+    },
+    "tachak": {
+        "name": "char_459_tachak",
+        "avatar": "tachak",
+        "code": "459",
+        "skin": [
+            "tachak_1",
+            "tachak_2",
+            "tachak_rainbow6-1"
+        ]
+    },
+    "cement": {
+        "name": "char_464_cement",
+        "avatar": "cement",
+        "code": "464",
+        "skin": [
+            "cement_1",
+            "cement_2"
+        ]
+    },
+    "qanik": {
+        "name": "char_466_qanik",
+        "avatar": "qanik",
+        "code": "466",
+        "skin": [
+            "qanik_1",
+            "qanik_2"
+        ]
+    },
+    "indigo": {
+        "name": "char_469_indigo",
+        "avatar": "indigo",
+        "code": "469",
+        "skin": [
+            "indigo_1",
+            "indigo_2",
+            "indigo_nian-7"
+        ]
+    },
+    "pasngr": {
+        "name": "char_472_pasngr",
+        "avatar": "pasngr",
+        "code": "472",
+        "skin": [
+            "pasngr_1",
+            "pasngr_2",
+            "pasngr_epoque-17"
+        ]
+    },
+    "mberry": {
+        "name": "char_473_mberry",
+        "avatar": "mberry",
+        "code": "473",
+        "skin": [
+            "mberry_1",
+            "mberry_2",
+            "mberry_epoque-14",
+            "mberry_nian-9"
+        ]
+    },
+    "glady": {
+        "name": "char_474_glady",
+        "avatar": "glady",
+        "code": "474",
+        "skin": [
+            "glady_1",
+            "glady_2",
+            "glady_boc-5"
+        ]
+    },
+    "akafyu": {
+        "name": "char_475_akafyu",
+        "avatar": "akafyu",
+        "code": "475",
+        "skin": [
+            "akafyu_1",
+            "akafyu_2",
+            "akafyu_epoque-15"
+        ]
+    },
+    "blkngt": {
+        "name": "char_476_blkngt",
+        "avatar": "blkngt",
+        "code": "476",
+        "skin": [
+            "blkngt_1",
+            "blkngt_2",
+            "blkngt_nian-8",
+            "blkngt_summer-8"
+        ]
+    },
+    "kirara": {
+        "name": "char_478_kirara",
+        "avatar": "kirara",
+        "code": "478",
+        "skin": [
+            "kirara_1",
+            "kirara_2",
+            "kirara_game-2"
+        ]
+    },
+    "sleach": {
+        "name": "char_479_sleach",
+        "avatar": "sleach",
+        "code": "479",
+        "skin": [
+            "sleach_1",
+            "sleach_2",
+            "sleach_epoque-14",
+            "sleach_summer-11"
+        ]
+    },
+    "robrta": {
+        "name": "char_484_robrta",
+        "avatar": "robrta",
+        "code": "484",
+        "skin": [
+            "robrta_1",
+            "robrta_2",
+            "robrta_ambienceSynesthesia-3",
+            "robrta_summer-10"
+        ]
+    },
+    "pallas": {
+        "name": "char_485_pallas",
+        "avatar": "pallas",
+        "code": "485",
+        "skin": [
+            "pallas_1",
+            "pallas_2",
+            "pallas_epoque-12",
+            "pallas_epoque-19"
+        ]
+    },
+    "takila": {
+        "name": "char_486_takila",
+        "avatar": "takila",
+        "code": "486",
+        "skin": [
+            "takila_1",
+            "takila_2",
+            "takila_ambienceSynesthesia-2"
+        ]
+    },
+    "buildr": {
+        "name": "char_488_buildr",
+        "avatar": "buildr",
+        "code": "488",
+        "skin": [
+            "buildr_1",
+            "buildr_2"
+        ]
+    },
+    "serum": {
+        "name": "char_489_serum",
+        "avatar": "serum",
+        "code": "489",
+        "skin": [
+            "serum_1",
+            "serum_2"
+        ]
+    },
+    "humus": {
+        "name": "char_491_humus",
+        "avatar": "humus",
+        "code": "491",
+        "skin": [
+            "humus_1",
+            "humus_2"
+        ]
+    },
+    "quercu": {
+        "name": "char_492_quercu",
+        "avatar": "quercu",
+        "code": "492",
+        "skin": [
+            "quercu_1",
+            "quercu_2",
+            "quercu_epoque-17",
+            "quercu_witch-4"
+        ]
+    },
+    "firwhl": {
+        "name": "char_493_firwhl",
+        "avatar": "firwhl",
+        "code": "493",
+        "skin": [
+            "firwhl_1",
+            "firwhl_2"
+        ]
+    },
+    "vendla": {
+        "name": "char_494_vendla",
+        "avatar": "vendla",
+        "code": "494",
+        "skin": [
+            "vendla_1",
+            "vendla_2"
+        ]
+    },
+    "wildmn": {
+        "name": "char_496_wildmn",
+        "avatar": "wildmn",
+        "code": "496",
+        "skin": [
+            "wildmn_1",
+            "wildmn_2",
+            "wildmn_epoque-16"
+        ]
+    },
+    "ctable": {
+        "name": "char_497_ctable",
+        "avatar": "ctable",
+        "code": "497",
+        "skin": [
+            "ctable_1",
+            "ctable_2",
+            "ctable_nian-9"
+        ]
+    },
+    "inside": {
+        "name": "char_498_inside",
+        "avatar": "inside",
+        "code": "498",
+        "skin": [
+            "inside_1",
+            "inside_2"
+        ]
+    },
+    "noirc": {
+        "name": "char_500_noirc",
+        "avatar": "noirc",
+        "code": "500",
+        "skin": [
+            "noirc_1"
+        ]
+    },
+    "durin": {
+        "name": "char_501_durin",
+        "avatar": "durin",
+        "code": "501",
+        "skin": [
+            "durin_1"
+        ]
+    },
+    "nblade": {
+        "name": "char_502_nblade",
+        "avatar": "nblade",
+        "code": "502",
+        "skin": [
+            "nblade_1"
+        ]
+    },
+    "rang": {
+        "name": "char_503_rang",
+        "avatar": "rang",
+        "code": "503",
+        "skin": [
+            "rang_1"
+        ]
+    },
+    "rguard": {
+        "name": "char_504_rguard",
+        "avatar": "rguard",
+        "code": "504",
+        "skin": [
+            "rguard_1"
+        ]
+    },
+    "rcast": {
+        "name": "char_505_rcast",
+        "avatar": "rcast",
+        "code": "505",
+        "skin": [
+            "rcast_1"
+        ]
+    },
+    "rmedic": {
+        "name": "char_506_rmedic",
+        "avatar": "rmedic",
+        "code": "506",
+        "skin": [
+            "rmedic_1"
+        ]
+    },
+    "rsnipe": {
+        "name": "char_507_rsnipe",
+        "avatar": "rsnipe",
+        "code": "507",
+        "skin": [
+            "rsnipe_1"
+        ]
+    },
+    "aguard": {
+        "name": "char_508_aguard",
+        "avatar": "aguard",
+        "code": "508",
+        "skin": [
+            "aguard_1"
+        ]
+    },
+    "acast": {
+        "name": "char_509_acast",
+        "avatar": "acast",
+        "code": "509",
+        "skin": [
+            "acast_1"
+        ]
+    },
+    "amedic": {
+        "name": "char_510_amedic",
+        "avatar": "amedic",
+        "code": "510",
+        "skin": [
+            "amedic_1"
+        ]
+    },
+    "asnipe": {
+        "name": "char_511_asnipe",
+        "avatar": "asnipe",
+        "code": "511",
+        "skin": [
+            "asnipe_1"
+        ]
+    },
+    "aprot": {
+        "name": "char_512_aprot",
+        "avatar": "aprot",
+        "code": "512",
+        "skin": [
+            "aprot_1"
+        ]
+    },
+    "apionr": {
+        "name": "char_513_apionr",
+        "avatar": "apionr",
+        "code": "513",
+        "skin": [
+            "apionr_1",
+            "apionr_2"
+        ]
+    },
+    "rdfend": {
+        "name": "char_514_rdfend",
+        "avatar": "rdfend",
+        "code": "514",
+        "skin": [
+            "rdfend_1"
+        ]
+    }
+}
